@@ -3,7 +3,7 @@ let d = 0;
 let growAmount = 0.8;
 let grow = true;
 
-
+//when loaded sound/website needs to be abroved in chrome settings 
 function preload() {
     mySong = loadSound('pad.mp3')
 
